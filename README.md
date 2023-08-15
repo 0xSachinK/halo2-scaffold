@@ -1,4 +1,6 @@
-# Halo2 Scaffolding
+# Axiom Cohort 2 Homework
+
+## Halo2 Scaffolding
 
 This repository is intended to provide a playground for you to easily start writing a ZK circuit using the Halo2 proving stack.
 
